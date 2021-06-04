@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My first fake json database",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, dolorum earum esse impedit inventore quod.",
+      "author": "emir",
+      "id": 1
+    },
+    {
+      "title": "I'm one step closer to using a real API",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, dolorum earum esse impedit inventore quod.",
+      "author": "emir",
+      "id": 2
+    }
+  ]
+}
