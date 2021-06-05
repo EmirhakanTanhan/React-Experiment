@@ -11,6 +11,12 @@
       "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, dolorum earum esse impedit inventore quod.",
       "author": "emir",
       "id": 2
+    },
+    {
+      "title": "Trying out the POST method",
+      "body": "Lets see if this actually works",
+      "author": "yoshi",
+      "id": 3
     }
   ]
 }
